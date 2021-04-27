@@ -1,0 +1,14 @@
+{
+    "name": "dried/date",
+    "description": "Date, time, interval, period and timezone helpers",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kylekatarnls",
+            "email": "kylekatarnls@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
